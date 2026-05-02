@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/images/favicon.png' | relative_url }}">
+</head>
+
+<body>
+
+<div class="page">
+  <aside class="sidebar">
+    {% include sidebar.html %}
+  </aside>
+
+  <main class="content">
+    {% include navbar.html %}
+    {{ content }}
+  </main>
+
+</div>
+
+</body>
+</html>
