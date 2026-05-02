@@ -13,7 +13,7 @@ Hi! I’m Kunj Sinha
 
 A big thanks to [MDAnalysis](https://www.mdanalysis.org/) and [WESTPA](https://westpa.github.io/westpa/) for accepting my proposal for [GSoC 2026](https://summerofcode.withgoogle.com/programs/2026/projects/VJMrp2UW).
 
-I'll be mentored by [Jeremy Leung](https://github.com/jeremyleung521), [Lilian Chong](https://github.com/ltchong) and [Nilay Verma](https://github.com/nilay-v3rma).
+I'll be mentored by [Jeremy Leung](https://github.com/jeremyleung521), [Lillian Chong](https://github.com/ltchong) and [Nilay Verma](https://github.com/nilay-v3rma).
 
 I will be working on the project "Interface for post-simulation analysis (“crawling”) of WESTPA simulations".
 
