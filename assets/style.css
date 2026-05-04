@@ -1,6 +1,8 @@
 body {
   margin: 0;
   font-family: Georgia, serif;
+  line-height: 1.5;
+  font-size: large;
   background: #f5f1e8;
   color: #2a2a2a;
 }
