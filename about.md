@@ -17,6 +17,7 @@ I will be working on a project for the next few months as a part of GSoC 2026 wi
 - Science
 - Art and Videography
 - Music
+- Cooking
 
 ### Contact
 - [GitHub](https://github.com/kunjsinha)
