@@ -17,8 +17,9 @@ body {
   height: 100vh;
   position: sticky;
   top: 0;
-  position: relative;
-  box-sizing: border-box; 
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
 }
 
 .content {
@@ -43,9 +44,10 @@ a:hover {
 
 .footer {
   padding: 20px;
-  position: absolute;
-  bottom: 5px;
-  left: 20px;
-  right: 20px;
+  margin-top: auto;
 }
 
+hr {
+  width: 100%;
+  box-sizing: border-box;
+}
