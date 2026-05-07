@@ -1,2 +1,6 @@
 title: "Kunj Sinha"
 description: "CS Student"
+
+collections:
+  cool:
+    output: true # makes other tabs work like posts tab bc jekyll doesnt recognize it
