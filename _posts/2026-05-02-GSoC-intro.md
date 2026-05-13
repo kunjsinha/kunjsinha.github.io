@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "GSoC 2026: Introduction"
-date: 2026-05-02
+date: 2026-05-13
 ---
 
 <a href="https://summerofcode.withgoogle.com/">
