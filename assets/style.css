@@ -53,3 +53,15 @@ hr {
   width: 100%;
   box-sizing: border-box;
 }
+
+pre {
+  background: #f0ead6;
+  border-left: 4px solid #5f8f8b;
+  padding: 12px 16px;
+  overflow-x: auto;
+  margin: 1rem 0;
+}
+
+code {
+  font-family: "Courier New", monospace;
+}
