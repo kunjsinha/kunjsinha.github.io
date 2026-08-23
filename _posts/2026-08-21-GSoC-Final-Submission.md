@@ -56,7 +56,7 @@ List of test cases added:
 
 ## Where is the code
 The code for this project is done entirely in one Pull Request - [GSoC 2026: Interface for post-simulation analysis (“crawling”) of WESTPA simulations](https://github.com/westpa/westpa/pull/594).
-*WESTPAParser*, *WESTPAReader*, `save_to_west_h5()` all live in `src/westpa/core/mdanalysis_core.py`. The w_mdacrawl CLI tool lives in `src/westpa/cli/tools/w_mdacrawl.py`. Test cases for the parser and reader are in `tests/test_mdacrawl.py` and for the CLI tool, `tests/test_tools/test_w_mdacrawl.py`. I also wrote documentation about the tool which will be hosted on the WESTPA docs once the PR is merged.
+*WESTPAParser*, *WESTPAReader*, `save_to_west_h5()` all live in `src/westpa/core/mdanalysis_core.py`. The w_mdacrawl CLI tool lives in `src/westpa/cli/tools/w_mdacrawl.py`. Test cases for the parser and reader are in `tests/test_mdacrawl.py` and for the CLI tool, `tests/test_tools/test_w_mdacrawl.py`. I also wrote documentation about the tool at WESTPA's Github [Wiki](https://github.com/westpa/westpa/wiki/man:w_mdacrawl) and more which will be hosted on the WESTPA docs once the PR is merged.
 
 ## Some more words
 All in all, this was a very productive summer and I enjoyed working with WESTPA and MDAnalysis very much. I would like to thank my mentors Jeremy Leung, Lillian Chong and Nilay Verma for their unending support. They were very warm and welcoming to me in the beginning when I was just an open source beginner and they helped me grow into more confident developer and a capable contributor to the community.
